@@ -1,0 +1,8 @@
+# GMT component art and documents stay out of the repository
+assets/
+*.vmod
+*.pdf
+games/**/*.jpg
+games/**/*.png
+__pycache__/
+.pytest_cache/

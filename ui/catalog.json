@@ -1,0 +1,4 @@
+{"units":{"1st PLT HQ":"HQ_07-1PLT.png","1/1":"2nd_1-1.png","2/1":"2nd_2-1.png","3/1":"2nd_3-1.png","1/LMG":"Weapon_LMG-1.png","1/AT":"Weapon_AT-1.png","Mtr FO":"Observer_Mortar FO.png"},
+ "markers":{"exposed_layer":"Layer_EXPOSED_new.png","pinned_layer":"Layer_PINNED_new.png","Daylight":"Weather_0 Daylight.png",
+   "No Contact":"Activity_No Contact.png","Contact":"Activity_Contact.png","Engaged":"Activity_Engaged.png","Heavily Engaged":"Activity_Heavily Engaged.png"},
+ "commands":{"1st PLT HQ":"Commands_1st PLT.png"}}
