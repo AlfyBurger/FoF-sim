@@ -1,0 +1,12 @@
+{"title":"FM1 Platoon Assault Course · Run 1: Activation & Movement","turn":1,
+ "phase":"3.3.1 Activation Segment · PLT HQ Impulse: draw for 1st PLT HQ (helmet +1 No Contact)",
+ "visibility":"Daylight","activity":"No Contact",
+ "map":{"R3":[{"img":"N17 Woods.jpg"},{"img":"N18 Woods.jpg","under":"N01 Hill.jpg"},{"img":"N19 Woods.jpg"}],
+        "R2":[{"img":"N09 Orchard Grove.jpg"},{"img":"N41 Open Fields.jpg"},{"img":"N10 Orchard Grove.jpg"}],
+        "R1":[{"img":"N42 Open Fields.jpg"},{"img":"N43 Open Fields.jpg"},{"img":"N44 Open Fields.jpg"}],
+        "S":[{"back":"Card Back - Normandy.jpg"},{"back":"Card Back - Normandy.jpg"},{"back":"Card Back - Normandy.jpg"}]},
+ "units":{"1st PLT HQ":"S2","1/1":"S2","2/1":"S2","3/1":"S2","1/LMG":"S2","1/AT":"S2","Mtr FO":"S2"},
+ "exposed":[],"pinned":[],
+ "commands":{"1st PLT HQ":{"available":0,"saved":0}},
+ "notes":["Goal: all 7 units on Row 3.","All units Line (assumed).","Max 6 Commands spent per impulse; Line HQ saves up to 6."],
+ "log":[]}
